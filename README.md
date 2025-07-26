@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Lakshya!
 
 ![GitHub followers](https://img.shields.io/github/followers/lakshyaelite?label=Followers&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/lakshyaelite?affiliation=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&logo=github)
 ![Profile views](https://komarev.com/ghpvc/?username=lakshyaelite&color=blue)
 ![Last Commit](https://img.shields.io/github/last-commit/lakshyaelite/lakshyaelite?logo=git)
 [![Tip Me!](https://img.shields.io/badge/Tip%20Me%20%E2%9D%A4%EF%B8%8F-get%20me%20toffee-green?logo=phonepe)](https://getmetoffee.vercel.app/payment.html?upiId=8320390785@pz&name=Lakshya+Singh+Chauhan&price=10)
