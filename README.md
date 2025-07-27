@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/lakshyaelite?label=Followers&logo=github)
 ![GitHub Join Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Flakshyaelite&query=created_at&style=social&logo=github&label=Joined%20on)
-![Profile views](https://komarev.com/ghpvc/?username=lakshyaelite&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=lakshyaelite&style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/lakshyaelite/lakshyaelite?logo=git)
 [![Tip Me!](https://img.shields.io/badge/Tip%20Me%20%E2%9D%A4%EF%B8%8F-Get%20Me%20Toffee-green?logo=phonepe)](https://getmetoffee.vercel.app/payment.html?upiId=8320390785@pz&name=Lakshya+Singh+Chauhan&price=10)
 
