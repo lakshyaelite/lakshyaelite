@@ -1,5 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=7dcc2f\&height=200\&section=header\&text=Hi%20There!%20I%27m%20Lakshya\&fontSize=35\&fontColor=ffffff)
 
+[![Website](https://img.shields.io/badge/Website-lakshyasinghchauhan.com-0a0a0a?style=social\&logo=google-chrome)](https://lakshyasinghchauhan.com)
 ![GitHub followers](https://img.shields.io/github/followers/lakshyaelite?label=Followers\&logo=github)
 ![GitHub Join Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Flakshyaelite\&query=created_at\&style=social\&logo=github\&label=Joined%20on)
 ![Profile views](https://komarev.com/ghpvc/?username=lakshyaelite\&style=social)
@@ -39,9 +40,8 @@ I'm a passionate **Web Developer** who loves building creative solutions and exp
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyaelite\&layout=compact\&hide_border=true\&theme=default#gh-dark-mode-only)
 ![GitHub Streak](https://streak-stats.demolab.com?user=lakshyaelite\&hide_border=true\&theme=default#gh-dark-mode-only)
 
-## 🌐 Find Me Online
+## 📧 Contact me
 
-[![Website](https://img.shields.io/badge/Website-lakshyasinghchauhan.com-0a0a0a?style=social\&logo=google-chrome)](https://lakshyasinghchauhan.com)
 [![Email](https://img.shields.io/badge/Email-contact@lakshyasinghchauhan.com-green?style=social\&logo=gmail)](mailto:contact@lakshyasinghchauhan.com)
 
 ---
