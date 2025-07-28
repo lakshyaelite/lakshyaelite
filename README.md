@@ -44,8 +44,6 @@ I'm a passionate **Web Developer** who loves building creative solutions and exp
 
 [![Email](https://img.shields.io/badge/Email-contact@lakshyasinghchauhan.com-green?style=social\&logo=gmail)](mailto:contact@lakshyasinghchauhan.com)
 
----
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving\&color=7dcc2f\&height=200\&section=footer\&text=Thank%20you%20for%20visiting!\&fontSize=35\&fontColor=ffffff)
 
 
