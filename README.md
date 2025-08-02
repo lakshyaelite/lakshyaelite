@@ -36,9 +36,9 @@ I'm a passionate **Web Developer** who loves building creative solutions and exp
 
 ## 📊 GitHub Stats
 
-![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshyaelite\&show_icons=true\&hide_border=true\&theme=default#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyaelite\&layout=compact\&hide_border=true\&theme=default#gh-dark-mode-only)
-![GitHub Streak](https://streak-stats.demolab.com?user=lakshyaelite\&hide_border=true\&theme=default#gh-dark-mode-only)
+![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshyaelite\&show_icons=true\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyaelite\&layout=compact\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=lakshyaelite\&hide_border=true)
 
 ## 📧 Contact me
 
