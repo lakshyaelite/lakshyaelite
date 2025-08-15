@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%2C%20I'm%20Lakshya!&fontSize=50" alt="Header" />
 </p>
 
-<h2 align="center">👋 Hello, I'm YourName</h2>
-
 <p align="center">
 I'm a <strong>web developer</strong> and <strong>Python enthusiast</strong>. I love building interactive web apps, exploring new technologies, and contributing to open-source projects.
 </p>
