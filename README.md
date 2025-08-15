@@ -1,11 +1,11 @@
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=7dcc2f\&height=200\&section=header\&text=Hi%20There!%20I%27m%20Lakshya\&fontSize=35\&fontColor=ffffff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&section=header"/>
+</p>
 
-[![Website](https://img.shields.io/badge/Website-lakshyasinghchauhan.com-0a0a0a?style=social\&logo=google-chrome)](https://lakshyasinghchauhan.com)
-![GitHub followers](https://img.shields.io/github/followers/lakshyaelite?label=Followers\&logo=github)
-![GitHub Join Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Flakshyaelite\&query=created_at\&style=social\&logo=github\&label=Joined%20on)
-![Profile views](https://komarev.com/ghpvc/?username=lakshyaelite\&style=social)
-![Last Commit](https://img.shields.io/github/last-commit/lakshyaelite/lakshyaelite?logo=git)
-[![Tip Me!](https://img.shields.io/badge/Tip%20Me%20-Get%20Me%20Toffee-green?logo=phonepe)](https://getmetoffee.vercel.app/payment.html?upiId=8320390785@pz&name=Lakshya+Singh+Chauhan&price=10)
+<p align="center">
+  <img src="https://img.shields.io/badge/Website-lakshyasinghchauhan.com-0a0a0a?style=social\&logo=google-chrome">
+  <img src="https://komarev.com/ghpvc/?username=lakshyaelite&style=social">
+</p>
 
 I'm a passionate **Web Developer** who loves building creative solutions and experimenting with technology—especially on Windows.
 
