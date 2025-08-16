@@ -3,6 +3,15 @@
 </p>
 
 <p align="center">
+  <a href="https://dev.to/@lakshyaelite">
+    <img src="https://cdn.simpleicons.org/dev.to" alt="Twitter" width="40" height="40" />
+  </a>
+  <a href="https://github.com/YourUsername">
+    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40" />
+  </a>
+</p>
+
+<p align="center">
 I'm a <strong>web developer</strong> and <strong>Python enthusiast</strong>. I love building interactive web apps, exploring new technologies, and contributing to open-source projects.
 </p>
 
@@ -16,31 +25,6 @@ I'm a <strong>web developer</strong> and <strong>Python enthusiast</strong>. I l
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" width="40" height="40" />
-</p>
-
-<h3 align="center">🛠️ Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/YourUsername/Project1">
-    <img src="https://via.placeholder.com/400x200?text=Project+Screenshot+1" alt="Project 1" />
-  </a>
-  <a href="https://github.com/YourUsername/Project2">
-    <img src="https://via.placeholder.com/400x200?text=Project+Screenshot+2" alt="Project 2" />
-  </a>
-  <a href="https://github.com/YourUsername/Project3">
-    <img src="https://via.placeholder.com/400x200?text=Project+Screenshot+3" alt="Project 3" />
-  </a>
-</p>
-
-<h3 align="center">📫 Connect with Me</h3>
-
-<p align="center">
-  <a href="https://twitter.com/YourUsername">
-    <img src="https://cdn.simpleicons.org/dev.to" alt="Twitter" width="40" height="40" />
-  </a>
-  <a href="https://github.com/YourUsername">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40" />
-  </a>
 </p>
 
 <p align="center">
