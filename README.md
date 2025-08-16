@@ -3,11 +3,17 @@
 </p>
 
 <p align="center">
-  <a href="https://dev.to/@lakshyaelite">
-    <img src="https://cdn.simpleicons.org/dev.to" alt="Twitter" width="40" height="40" />
+  <a href="https://lakshyasinghchauhan.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ie10/ie10-original.svg" alt="Website" width="40" height="40" />
   </a>
-  <a href="https://github.com/YourUsername">
+  <a href="https://dev.to/@lakshyaelite">
+    <img src="https://cdn.simpleicons.org/dev.to" alt="Dev.to" width="40" height="40" />
+  </a>
+  <a href="https://github.com/lakshyaelite">
     <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40" />
+  </a>
+  <a href="https://codepen.io/lakshyaelite">
+    <img src="https://cdn.simpleicons.org/codepen" alt="Codepen" width="40" height="40" />
   </a>
 </p>
 
