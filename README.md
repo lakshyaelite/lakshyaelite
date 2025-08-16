@@ -15,6 +15,9 @@
   <a href="https://codepen.io/lakshyaelite">
     <img src="https://cdn.simpleicons.org/codepen" alt="Codepen" width="40" height="40" />
   </a>
+  <a href="https://www.chess.com/member/lakshyaelite">
+    <img src="https://cdn.simpleicons.org/chess.com" alt="Chess.com" width="40" height="40" />
+  </a>
 </p>
 
 <p align="center">
