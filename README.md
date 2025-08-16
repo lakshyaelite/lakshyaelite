@@ -18,13 +18,12 @@ I'm a <strong>web developer</strong> and <strong>Python enthusiast</strong>. I l
 <h3 align="center">💻 Skills</h3>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
 </p>
 
 <p align="center">
