@@ -3,24 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://lakshyasinghchauhan.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ie10/ie10-original.svg" alt="Website" width="40" height="40" />
-  </a>
-  <a href="https://dev.to/@lakshyaelite">
-    <img src="https://cdn.simpleicons.org/dev.to" alt="Dev.to" width="40" height="40" />
-  </a>
-  <a href="https://github.com/lakshyaelite">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40" />
-  </a>
-  <a href="https://codepen.io/lakshyaelite">
-    <img src="https://cdn.simpleicons.org/codepen" alt="Codepen" width="40" height="40" />
-  </a>
-  <a href="https://www.chess.com/member/lakshyaelite">
-    <img src="https://cdn.simpleicons.org/chess.com" alt="Chess.com" width="40" height="40" />
-  </a>
-</p>
-
-<p align="center">
 I'm a <strong>web developer</strong> and <strong>Python enthusiast</strong>. I love building interactive web apps, exploring new technologies, and contributing to open-source projects.
 </p>
 
