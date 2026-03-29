@@ -1,41 +1,45 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%2C%20I'm%20Lakshya!&fontSize=50&animation=scaleIn" alt="Header" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%2C%20I'm%20Lakshya!&fontSize=50&animation=scaleIn" width="100%" />
 
-<p align="center">
-I'm a <strong>web developer</strong> and <strong>Python enthusiast</strong>. I love building interactive web apps, exploring new technologies, and contributing to open-source projects.
-</p>
 
-# 💻 Skills
+I'm a **Student and Full-Stack Developer** passionate about building clean, functional web applications and exploring the power of open-source environments.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="NeoVim" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" alt="GIMP" width="40" height="40" />
-</p>
+---
 
-<br>
+### 🚀 About Me
 
-# 📚 GitHub Stats
+- 🎓 **Focus:** Currently mastering advanced React patterns and backend integration.
+- 🐧 **Environment:** Powering my workflow with **Linux Mint**.
+- 🛠️ **Current Project:** Refining a Library Management System and exploring SQL databases.
+- ⚡ **Fun Fact:** I believe the best way to learn a system is to break it (and then fix it in the terminal).
 
-![lakshyaelite's Stats](https://github-readme-stats.vercel.app/api?username=lakshyaelite&theme=default&show_icons=true&hide_border=true&count_private=true)
-![lakshyaelite's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshyaelite&theme=default&hide_border=true)
-![lakshyaelite's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyaelite&theme=default&show_icons=true&hide_border=true&layout=compact)
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer" alt="Footer" />
-</p>
+### 🛠️ My Tech Stack
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshyaelite&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyaelite" /> </p>
+**Frontend & Logic**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Backend & Scripting**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & OS**
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📫 How to reach me
+- **Mail:** [thelakshyaelite@gmail.com](mailto:thelakshyaelite@gmail.com)
+- **Website:** [lakshyasinghchauhan.com](https://lakshyasinghchauhan.com)
+- Let's collaborate on **React** or **Node.js** projects!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" width="100%" />
 
 <!---
 lakshyagithub/lakshyagithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
