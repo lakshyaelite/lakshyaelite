@@ -1,16 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%2C%20I'm%20Lakshya!&fontSize=50&animation=scaleIn" width="100%" />
 
 
-I'm a **Student and Full-Stack Developer** passionate about building clean, functional web applications and exploring the power of open-source environments.
+I am a **Student and Full-Stack Developer** passionate about building functional web applications and exploring the power of open-source environments.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Focus:** Currently mastering advanced React patterns and backend integration.
+- 🎓 **Focus:** Currently learning Python AI.
 - 🐧 **Environment:** Powering my workflow with **Linux Mint**.
-- 🛠️ **Current Project:** Refining a Library Management System and exploring SQL databases.
-- ⚡ **Fun Fact:** I believe the best way to learn a system is to break it (and then fix it in the terminal).
+- ⚡ **Fun Fact:** I believe the best way to learn a system is to break it, and then fix it.
 
 ---
 
@@ -66,8 +65,7 @@ I'm a **Student and Full-Stack Developer** passionate about building clean, func
 
 ### 📫 How to reach me
 - **Mail:** [thelakshyaelite@gmail.com](mailto:thelakshyaelite@gmail.com)
-- **Website:** [lakshyasinghchauhan.com](https://lakshyasinghchauhan.com)
-- Let's collaborate on **React** or **Node.js** projects!
+- **Blog:** [lakshyasinghchauhan.com](https://lakshyasinghchauhan.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" width="100%" />
 
