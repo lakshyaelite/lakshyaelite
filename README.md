@@ -40,7 +40,7 @@ I am a Student and Web Developer passionate about building functional websites a
 </a>
 
 <a href="https://vite.dev" target="_blank">
-<img src="https://img.shields.io/badge/vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=8227eb">
+<img src="https://img.shields.io/badge/vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=9135FF">
 </a>
 
 <a href="https://python.org" target="_blank">
